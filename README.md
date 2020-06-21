@@ -6,7 +6,7 @@
 <hr>
 <h3>Data Sources</h3>
 <p>
-In this final project, there are 4 data resources that will be used:
+In this final project, there are 4 data sources that will be used:
 <ol>
 <li>
 <b>List of districts in Jakarta</b>
