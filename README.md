@@ -30,7 +30,7 @@ In this final project, there are 4 data sources that will be used:
 </ul>
 </li><br>
 <li>
-<b>The list of all food & beverage services</b>
+<b>List of all food & beverage services</b>
 <ul>
 <li><a href="https://developer.foursquare.com/docs/places-api/endpoints/">Foursquare API</a></li>
 <li>Foursquare has one of the largest database of 105+ million places and is used by over 125,000 developers.</li>
