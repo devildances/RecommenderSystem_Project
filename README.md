@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1>IBM_Project</h1>
-<h2>Applied Data Science Final Project</h2>
+<h1>Food & Beverage Service Recommendation</h1>
+<h2>Data Science Project</h2>
 
 <hr>
 <h3>Data Sources</h3>
 <p>
-In this final project, there are 4 data sources that will be used:
+In this project, there are 4 data sources that will be used:
 <ol>
 <li>
 <b>List of districts in Jakarta</b>
